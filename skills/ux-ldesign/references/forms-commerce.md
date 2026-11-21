@@ -47,5 +47,5 @@ Benchmarks change; Baymard announced retested checkout research for Q2 2027, so 
 - Phone number: explain why it is needed or drop it; 68% of respondents were reluctant to give one, 47% of sites give no reason. [Baymard](https://baymard.com/blog/current-state-of-checkout-ux)
 - Collapse completed accordion steps into summaries (72% of sites do not); show delivery dates, not only speed names (48% show speed only); quantity control as buttons or button + text field in the cart (95% do not). Same source.
 - Payment: show accepted card types up front, tolerate spaces in card numbers, state clearly when a card is declined and what to try (declines hit 10% of abandoners). Show returns policy near price and pay button (13% cite it). Source: abandonment list.
-- Cart survives reload and return visits; edit quantity or remove without leaving the page (unverified: Baymard cart-persistence detail not fetched; from the audit's recall).
+- Cart contents persist across sessions, changes to cart items are clearly communicated, and users can save items for later instead of deleting them. [Baymard checkout audit](https://baymard.com/blog/audit-checkout-flow-hidden-friction)
 - Trust: put security and payment cues beside card fields (19% abandon from distrust). Abandonment list.

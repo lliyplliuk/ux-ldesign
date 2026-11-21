@@ -41,11 +41,11 @@ Sources: [Wikipedia, The Design of Everyday Things](https://en.wikipedia.org/wik
 | Signifier | Is there a perceptible cue showing where and how to act (marks, labels, sounds)? |
 | Mapping | Is the relation between controls and effects, and between system state and what is visible, evident? |
 | Feedback | Does the user receive full, continuous feedback about results of actions? |
-| Constraints | Does the design limit invalid actions rather than only report them? (unverified: constraints not on the fetched pages) |
+| Constraints | Does the design limit the set of possible actions (physical, logical, semantic, cultural constraints) rather than only report invalid ones? Norman: "Constraints are powerful clues, limiting the set of possible actions." [The Design of Everyday Things, ch. 4](https://archive.org/details/thedesignofeverydaythingsbydonnorman) |
 | Conceptual model | Does the system image give a coherent, consistent model that bridges the gulf of execution (how do I do it?) and the gulf of evaluation (what state is it in?)? |
 
 ## ISO 9241-110:2020 interaction principles
-iso.org returned 403; the seven names come from the secondary source [Wikipedia, ISO 9241](https://en.wikipedia.org/wiki/ISO_9241). Questions are derived from the names, not from the standard's text (unverified wording): read the standard before citing clauses.
+iso.org returned 403; the seven names and one-line definitions (clause 4.1) are confirmed in the publisher preview [ISO 9241-110:2020 preview (iteh)](https://cdn.standards.iteh.ai/samples/75258/83c8cf072187487686645aad04eff40e/ISO-9241-110-2020.pdf). The questions below are paraphrases of those definitions, not quotations; the preview omits clause 5 text, so read the full standard before citing recommendations.
 | Principle | Question |
 |---|---|
 | Suitability for the user's tasks | Does the interface support the task the user is actually doing, without extra steps? |

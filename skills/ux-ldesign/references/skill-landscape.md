@@ -22,7 +22,7 @@ Load on demand for deep platform detail beyond [mobile-ios.md](mobile-ios.md) an
 
 | Resource | Licence | Use for |
 | --- | --- | --- |
-| [HIGAgentSkills](https://github.com/justinwetch/HIGAgentSkills) (~841 stars, pushed 2026-10) | MIT | Condensed rewrite of ~157 Apple HIG pages (per its README, snapshot 2026-09; page count not re-fetched, unverified) with a routing index for on-demand loading. Derivative of Apple content (see its NOTICE): use as a lookup aid, confirm values on developer.apple.com. |
+| [HIGAgentSkills](https://github.com/justinwetch/HIGAgentSkills) (~841 stars, pushed 2026-10) | MIT | Condensed rewrite of ~157 Apple HIG pages (per its README: 157 references, release 2026-09-27, Apple source snapshot 2026-09-12) with a routing index for on-demand loading. Derivative of Apple content (see its NOTICE): use as a lookup aid, confirm values on developer.apple.com. |
 | [material-3-skill](https://github.com/hamen/material-3-skill) (~1.6k stars, pushed 2026-07) | MIT | Material 3 for Jetpack Compose: components, tokens, theming, responsive layout, M3 audit. Compose-code-centric and several months stale; confirm against m3.material.io. |
 | [Impeccable](https://github.com/pbakaus/impeccable) `ios.md` / `android.md` | Apache-2.0 | Structural inspiration only: ~4 KB per platform, short rules (safe area, 44 pt, Dynamic Type, edge-swipe back, semantic colours). Model for keeping mobile files compact. |
 
