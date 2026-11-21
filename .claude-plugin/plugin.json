@@ -1,0 +1,13 @@
+{
+  "name": "ux-ldesign",
+  "displayName": "UX L-Design",
+  "description": "UX design and review skill: flows, forms, accessibility (WCAG 2.2, EAA), dark patterns, mobile (iOS/Android), AI interfaces and usability research, with sourced, checkable rules.",
+  "author": {
+    "name": "Aleksandr",
+    "url": "https://github.com/lliyplliuk"
+  },
+  "homepage": "https://github.com/lliyplliuk/ux-ldesign",
+  "repository": "https://github.com/lliyplliuk/ux-ldesign",
+  "license": "MIT",
+  "keywords": ["ux", "usability", "accessibility", "wcag", "design-review", "dark-patterns", "mobile", "skill"]
+}

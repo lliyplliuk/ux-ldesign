@@ -1,0 +1,14 @@
+{
+  "name": "ux-ldesign",
+  "description": "UX design and review skill with sourced, checkable rules",
+  "owner": {
+    "name": "lliyplliuk"
+  },
+  "plugins": [
+    {
+      "name": "ux-ldesign",
+      "source": "./",
+      "description": "Design and review UX for websites and apps: flows, forms, accessibility (WCAG 2.2, EAA), dark patterns, mobile (iOS/Android), AI interfaces, usability research."
+    }
+  ]
+}
